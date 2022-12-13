@@ -1,12 +1,12 @@
 ## Faaaala dev, Rick Aqui!
 
-<div >
+<div style="display: flex; justify-content: between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rick02122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick02122&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ## Melhores tecnologias.
-<div style="display: flex; justify-content: center;"> <br>
+<div style="display: flex; justify-content: between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,4 +19,8 @@
 
 
 
- ![Snake animation](https://github.com/Rick02122/Rick02122/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/Rick02122/Rick02122/blob/output/github-contribution-grid-snake.svg) 
+
+
+
+<a href="https://storyset.com/people">People illustrations by Storyset</a>
