@@ -27,7 +27,3 @@
 
 
 ![Snake animation](https://github.com/Rick02122/Rick02122/blob/output/github-contribution-grid-snake.svg) 
-
-
-
-<a href="https://storyset.com/people">People illustrations by Storyset</a>
